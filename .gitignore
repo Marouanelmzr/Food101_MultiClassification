@@ -1,0 +1,6 @@
+venv/
+data/
+wandb/
+.ipynb_checkpoints/
+experiments/
+wandkey.csv
